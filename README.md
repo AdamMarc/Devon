@@ -8,5 +8,11 @@ To find out difference of the file on PC and file in Git
 
 	git diff file.name       git diff README.md
 
+To see the history of files uploaded
+
+	git log
+
+
+
 
 
