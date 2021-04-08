@@ -12,7 +12,9 @@ To see the history of files uploaded
 
 	git log
 
+If you happen to mess a file up you can use the following command which will reverse the local file back to the last commit. 
 
+	git checkout filename.xxx
 
 
 
